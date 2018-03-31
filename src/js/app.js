@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
-import App from '../client/app/app.jsx';
+import AddressForm from '../client/app/app.jsx';
 
-ReactDOM.render(<App />, document.getElementById('App'));
+ReactDOM.render(<AddressForm />, document.getElementById('App'));
 
